@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#2740de</color>
+
+    <color name="colorRoundedFigure">#12cce7</color>
+    <color name="colorCircleButton">#02b4cf</color>
+    <color name="colorCircleButtonName">#ffffff</color>
+    <color name="colorNumberFragment">#ffffff</color>
+
+    <color name="colorTransparent">#00ffffff</color>
+
+</resources>
